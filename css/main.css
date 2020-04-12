@@ -11902,14 +11902,14 @@ nav {
 
 .navbar .menu-btn {
     padding: 7px 0 0;
-    background: url(../imgs/hamburger-menu-new.svg) no-repeat center center;
+    background: url(https://cdn.jsdelivr.net/gh/smacrs-development/rahetbally/img/hamburger-menu-new.svg) no-repeat center center;
     width: 30px;
     height: 30px
 }
 
 .navbar .menu-btn:hover,
 .navbar .menu-btn:active {
-    background: url(../imgs/hamburger-menu-new-hover.svg) no-repeat center center
+    background: url(https://cdn.jsdelivr.net/gh/smacrs-development/rahetbally/img/hamburger-menu-new-hover.svg) no-repeat center center
 }
 
 .navbar .menu-btn.active {
