@@ -17341,7 +17341,7 @@ nav {
 
 .flash-cards-container {
     /* background-image: url(../imgs/section_carousel.png); */
-    background-image: url(../imgs/section_carousel.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/smacrs-development/rahetbally/img/section_carousel.jpg);
     background-repeat: no-repeat;
     background-position: 0 -30px
 }
