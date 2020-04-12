@@ -509,7 +509,6 @@ input[type="text"]:focus{
       font-size: 1.875rem;
       padding: 25px 0 33px 0;
       letter-spacing: -1;
-      color: green;
   }
   .main_titles::after , .main_titles::before{
       /* content: ""; */
@@ -667,7 +666,9 @@ input[type="text"]:focus{
 .slideout-panel.panel-open{
   transform: translateX(240px);
 }
-
+.backstretch{
+  display: none;
+}
 /*#endregion main*/
 /*#region video*/
 div.video {
